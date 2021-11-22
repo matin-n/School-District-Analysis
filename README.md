@@ -117,7 +117,7 @@ From the original to the new analysis, there were no significant changes. A minu
 
 
 ## Resources
-- Data Source: `schools_complete.csv`, `students_complete.csv`
-- Source Code: `PyCitySchools.ipynb`, `PyCitySchools_Challenge.ipynb`
-- Software: `Python 3.7.10`, `Jupyter Notebook 6.3.0`
-- Libraries: `NumPy 1.21.4`, `Pandas 1.3.4`
+- Data Source: [`schools_complete.csv`](https://github.com/matin-n/School_District_Analysis/blob/main/Resources/schools_complete.csv), [`students_complete.csv`](https://github.com/matin-n/School_District_Analysis/blob/main/Resources/students_complete.csv)
+- Source Code: [`PyCitySchools.ipynb`](https://github.com/matin-n/School_District_Analysis/blob/main/PyCitySchools.ipynb), [`PyCitySchools_Challenge.ipynb`](https://github.com/matin-n/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+- Software: [`Python 3.7.10`](https://www.python.org/downloads/release/python-3710/), [`Jupyter Notebook 6.3.0`](https://jupyter.org/)
+- Libraries: [`NumPy 1.21.4`](https://numpy.org/), [`Pandas 1.3.4`](https://pandas.pydata.org/)
