@@ -119,5 +119,5 @@ From the original to the new analysis, there were no significant changes. A minu
 ## Resources
 - Data Source: [`schools_complete.csv`](Resources/schools_complete.csv), [`students_complete.csv`](Resources/students_complete.csv)
 - Source Code: [`PyCitySchools.ipynb`](PyCitySchools.ipynb), [`PyCitySchools_Challenge.ipynb`](PyCitySchools_Challenge.ipynb)
-- Software: [`Python 3.7.10`](https://www.python.org/downloads/release/python-3710/), [`Jupyter Notebook 6.3.0`](https://jupyter.org/)
-- Libraries: [`NumPy 1.21.4`](https://numpy.org/), [`Pandas 1.3.4`](https://pandas.pydata.org/)
+- Software: [`Python 3.9.12`](https://www.python.org/downloads/release/python-3912/), [`Jupyter Notebook`](https://jupyter.org/)
+- Libraries: [`NumPy 1.22.3`](https://numpy.org/), [`Pandas 1.4.2`](https://pandas.pydata.org/), [`IPython 8.2.0`](https://ipython.org/) 
