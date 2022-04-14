@@ -24,10 +24,10 @@ From the original to the new analysis, a significant decrease can be seen in the
 
 
 #### Original
-![School Summary Original](https://github.com/matin-n/School_District_Analysis/blob/main/Resources/School%20Summary%20Original.png?raw=true)
+![School Summary Original](Resources/School%20Summary%20Original.png)
 
 #### New
-![School Summary New](https://github.com/matin-n/School_District_Analysis/blob/main/Resources/School%20Summary%20New.png?raw=true)
+![School Summary New](Resources/School%20Summary%20New.png)
 
 
 ### District summary
@@ -47,10 +47,10 @@ From the original to the new analysis, a slight decrease can be seen in the `Ave
 
 #### Original
 
-![District Summary Original](https://github.com/matin-n/School_District_Analysis/blob/main/Resources/District%20Summary%20Original.png?raw=true)
+![District Summary Original](Resources/District%20Summary%20Original.png)
 
 #### New
-![District Summary New](https://github.com/matin-n/School_District_Analysis/blob/main/Resources/District%20Summary%20New.png?raw=true)
+![District Summary New](Resources/District%20Summary%20New.png)
 
 ### Scores by School Spending
 
@@ -72,9 +72,9 @@ From the original to the new analysis, there were no significant changes. A minu
     - % Overall Passing: 62.778233%
 
 #### Original
-![Scores by School Spending Original](https://github.com/matin-n/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Spending%20Original.png?raw=true)
+![Scores by School Spending Original](Resources/Scores%20by%20School%20Spending%20Original.png)
 #### New
-![Scores by School Spending New](https://github.com/matin-n/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Spending%20New.png?raw=true)
+![Scores by School Spending New](Resources/Scores%20by%20School%20Spending%20New.png)
 
 
 ### Scores by School Size
@@ -97,9 +97,9 @@ From the original to the new analysis, there were no significant changes. A minu
     - % Overall Passing: 90.557997%
 
 #### Original
-![Scores by School Size Original](https://github.com/matin-n/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Size%20Original.png?raw=true)
+![Scores by School Size Original](Resources/Scores%20by%20School%20Size%20Original.png)
 #### New
-![Scores by School Size New](https://github.com/matin-n/School_District_Analysis/blob/main/Resources/Scores%20by%20School%20Size%20New.png?raw=true)
+![Scores by School Size New](Resources/Scores%20by%20School%20Size%20New.png)
 
 
 ## Summary
@@ -117,7 +117,7 @@ From the original to the new analysis, there were no significant changes. A minu
 
 
 ## Resources
-- Data Source: [`schools_complete.csv`](https://github.com/matin-n/School_District_Analysis/blob/main/Resources/schools_complete.csv), [`students_complete.csv`](https://github.com/matin-n/School_District_Analysis/blob/main/Resources/students_complete.csv)
-- Source Code: [`PyCitySchools.ipynb`](https://github.com/matin-n/School_District_Analysis/blob/main/PyCitySchools.ipynb), [`PyCitySchools_Challenge.ipynb`](https://github.com/matin-n/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+- Data Source: [`schools_complete.csv`](Resources/schools_complete.csv), [`students_complete.csv`](Resources/students_complete.csv)
+- Source Code: [`PyCitySchools.ipynb`](PyCitySchools.ipynb), [`PyCitySchools_Challenge.ipynb`](PyCitySchools_Challenge.ipynb)
 - Software: [`Python 3.7.10`](https://www.python.org/downloads/release/python-3710/), [`Jupyter Notebook 6.3.0`](https://jupyter.org/)
 - Libraries: [`NumPy 1.21.4`](https://numpy.org/), [`Pandas 1.3.4`](https://pandas.pydata.org/)
